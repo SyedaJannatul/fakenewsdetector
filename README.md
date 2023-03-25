@@ -4,5 +4,5 @@ This system can determine a news is either fake or real more precisely and also 
 There are lots of works on Deep Natural Language Processing (Deep NLP) in English and these approaches are being used in many automated systems.Natural Language Processing on Bangla is very rare. But so far no process has been developed to predict fake news from English and Bangla languages news combinedly. This made myself to be interested to work with this research based project.
 
 For more details please visit the link-
-https://drive.google.com/drive/folders/1FntyQbSEhA50UyoEfbZzd9XIpOx0KJO1?usp=sharing
+https://drive.google.com/drive/folders/1FntyQbSEhA50UyoEfbZzd9XIpOx0KJO1?usp=share_link
 
